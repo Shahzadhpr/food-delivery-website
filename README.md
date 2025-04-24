@@ -45,8 +45,10 @@ Give it a **⭐️ Star**, and follow me on [GitHub](https://github.com/Shahzadh
 
 Stay tuned — lots of exciting stuff on the way! 😎✨
 
+&nbsp;
+
 ---
 
 <div align="center">
-  Made with ❤️ by [Shahzad](https://github.com/Shahzadhpr)
+  Made with ❤️ by Shahzad
 </div>
