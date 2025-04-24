@@ -34,7 +34,7 @@ Welcome to the **Online Food Delivery Website** — a fully responsive UI projec
 
 If you find this project helpful:
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-Shahzadhpr/your-repo-name?style=for-the-badge)](https://github.com/Shahzadhpr/food-delivery-website)  
+[![GitHub Stars](https://img.shields.io/github/stars/your-Shahzadhpr/your-repo-name?style=for-the-badge)](https://github.com/Shahzadhpr/food-delivery-website/stargazers)  
 [![GitHub Followers](https://img.shields.io/github/followers/your-Shahzadhpr?style=for-the-badge)](https://github.com/Shahzadhpr)
 
 Give it a **⭐️ Star**, and follow me on [GitHub](https://github.com/Shahzadhpr) and [LinkedIn](https://www.linkedin.com/in/hassanpourshahzad)!
