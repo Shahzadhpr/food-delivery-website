@@ -6,13 +6,13 @@
 
 Welcome to the **Online Food Delivery Website** — a fully responsive UI project built with pure HTML and CSS.
 
----
+&nbsp;
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-orange?style=for-the-badge&logo=google-chrome)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-orange?style=for-the-badge&logo=google-chrome)](https://shahzadhpr.github.io/food-delivery-website)
 
----
+&nbsp;
 
 ## 🛠️ Features
 
@@ -20,7 +20,7 @@ Welcome to the **Online Food Delivery Website** — a fully responsive UI projec
 - 📱 Fully **Responsive Design**
 - 💬 Contact options via **LinkedIn**, **Telegram**, and **WhatsApp**
 
----
+&nbsp;
 
 ## 📬 Contact Me
 
@@ -28,18 +28,18 @@ Welcome to the **Online Food Delivery Website** — a fully responsive UI projec
 [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram)](https://t.me/Shahzad_hpr)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/989112874119)
 
----
+&nbsp;
 
 ## 🌟 Support & Contributions
 
 If you find this project helpful:
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=for-the-badge)](https://github.com/your-username/your-repo-name/stargazers)  
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge)](https://github.com/your-username)
+[![GitHub Stars](https://img.shields.io/github/stars/your-Shahzadhpr/your-repo-name?style=for-the-badge)](https://github.com/Shahzadhpr/food-delivery-website)  
+[![GitHub Followers](https://img.shields.io/github/followers/your-Shahzadhpr?style=for-the-badge)](https://github.com/Shahzadhpr)
 
 Give it a **⭐️ Star**, and follow me on [GitHub](https://github.com/Shahzadhpr) and [LinkedIn](https://www.linkedin.com/in/hassanpourshahzad)!
 
----
+&nbsp;
 
 ## 🧠 More Projects Coming Soon
 
@@ -48,5 +48,5 @@ Stay tuned — lots of exciting stuff on the way! 😎✨
 ---
 
 <div align="center">
-  Made with ❤️ by [Shahzada](https://github.com/your-username)
+  Made with ❤️ by [Shahzad](https://github.com/Shahzadhpr)
 </div>
