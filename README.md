@@ -10,7 +10,7 @@ Welcome to the **Online Food Delivery Website** — a fully responsive UI projec
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-orange?style=for-the-badge&logo=google-chrome)](https://shahzadhpr.github.io/food-delivery-website)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-CD201F?style=for-the-badge&logo=google-chrome)](https://shahzadhpr.github.io/food-delivery-website)
 
 &nbsp;
 
@@ -26,7 +26,7 @@ Welcome to the **Online Food Delivery Website** — a fully responsive UI projec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanpourshahzad)  
 [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram)](https://t.me/Shahzad_hpr)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/989112874119)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-09B83E?style=for-the-badge&logo=whatsapp)](https://wa.me/989112874119)
 
 &nbsp;
 
@@ -34,8 +34,8 @@ Welcome to the **Online Food Delivery Website** — a fully responsive UI projec
 
 If you find this project helpful:
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-Shahzadhpr/your-repo-name?style=for-the-badge)](https://github.com/Shahzadhpr/food-delivery-website/stargazers)  
-[![GitHub Followers](https://img.shields.io/github/followers/your-Shahzadhpr?style=for-the-badge)](https://github.com/Shahzadhpr)
+[![GitHub Stars](https://img.shields.io/github/stars/Shahzadhpr/food-delivery-website?style=for-the-badge&color=FFD700)](https://github.com/Shahzadhpr/food-delivery-website/stargazers)  
+[![GitHub Followers](https://img.shields.io/github/followers/Shahzadhpr?style=for-the-badge&color=8A2BE2)](https://github.com/Shahzadhpr)
 
 Give it a **⭐️ Star**, and follow me on [GitHub](https://github.com/Shahzadhpr) and [LinkedIn](https://www.linkedin.com/in/hassanpourshahzad)!
 
