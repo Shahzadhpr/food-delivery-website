@@ -954,14 +954,17 @@ footer {
       max-width: 200px;
   }
   .img_section_mobile_app img{
- 
       top: -23px;
-}
+  }
+  .content_right_header_bottom {
+    margin-bottom: 6rem;
+  }
 }
 @media (min-width:677px){
  .order_food_mobile{
   display: none;
  }
+  
 }
 @media (max-width:500px){
   /* .row_grid_food_products{
